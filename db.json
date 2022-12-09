@@ -1,0 +1,265 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "price": 200,
+            "name": "Chilli Chicken",
+            "rating": "4.3",
+            "src": "https://imgs.search.brave.com/RrRZcdR2lzB7bNgZdg0SHZslqU28PB50NPBXw6aK8Yw/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5D/elNubUtoaC14RHZ5/NHNYc3BOcTdnSGFF/OCZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "2",
+            "price": 220,
+            "name": "Chicken DrumStick",
+            "rating": "4.6",
+            "src": "https://imgs.search.brave.com/uwzPX3As98vTpaM4hKwbS-PTd1sj9uszgPD71WYscd8/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cThhZEVkN2dNWmRO/aVhUeV9TdHV3SGFF/OCZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "3",
+            "price": 220,
+            "name": "Chicken Lollipop",
+            "rating": "3.5",
+            "src": "https://imgs.search.brave.com/R0SiEU7hR6dV7UzS59YkjaOgllcT2L0Uli4HWYJWFmc/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/aHJfb0xZdmtqN0p6/WkNjbzlYNXJBSGFF/NyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "4",
+            "price": 200,
+            "name": "Chicken Manchuria",
+            "rating": "2.0",
+            "src": "https://imgs.search.brave.com/CaZj2Y392xc8Gf-zcC95c3e8vatj7fU5SB1c_ZXoVxg/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC45/UTRDTjVmY1IyNkdz/aVdmdHpob25nSGFF/SyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "5",
+            "price": 220,
+            "name": "Chicken Magestic",
+            "rating": "4.6",
+            "src": "https://imgs.search.brave.com/lR708vA2iMGzKBriHnJZW6IfB8op8aUlF2_CSvvjLKc/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/SG43VUEwWjJfeEJZ/MDBhNklpOUlnSGFF/OCZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "6",
+            "price": 220,
+            "name": "Dragon Chicken",
+            "rating": "4.3",
+            "src": "https://imgs.search.brave.com/RJbhV3_rNGrNFZZrhVRptNBnLarNY4VBVDj5pLv5ReM/rs:fit:582:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/WklDNVhhV3VjSFQ0/Sy1wbGE3eWF3SGFH/QyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "7",
+            "price": 200,
+            "name": "Panner 65",
+            "rating": "3.9",
+            "src": "https://imgs.search.brave.com/0suePnNT1cBB5TWzsf4sMQEWAYWUU5UI3alz3ysVNXc/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/blloMVVGZ0lFMzJR/a05JTHJCTUp3SGFF/NyZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg-Starter"
+        },
+        {
+            "id": "8",
+            "price": 200,
+            "name": "Panner Manchuria",
+            "rating": "3.5",
+            "src": "https://imgs.search.brave.com/WjGK33A9f-iuZW9F8ypHLBLnHq5y_JiPQrARgecr9Mc/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5C/RmpBMkNTYmlmVkF1/VEpObXhOejNRSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg-Starter"
+        },
+        {
+            "id": "9",
+            "price": 220,
+            "name": "Panner Tikka",
+            "rating": "4.4",
+            "src": "https://imgs.search.brave.com/aQX43FRD6ebKW0eNNEDxKjRf9Z0RLarNtTaHQQZgZuw/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/SDBLTVBYSHFXWVcy/OGhFYzdPWExRSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg-Starter"
+        },
+        {
+            "id": "10",
+            "price": 160,
+            "name": "Veg Manchuria",
+            "rating": "4.0",
+            "src": "https://imgs.search.brave.com/JtnKNqcCE55OHFUcS5f5xa8vv-eiEJf5ihbRLNRapLs/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5w/MF9TZWNMbGZlRmg1/WDBPbjlUWWxnSGFF/SyZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg-Starter"
+        },
+        {
+            "id": "11",
+            "price": 220,
+            "name": "Butter Chicken Masala",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/EoIOWw3-II2ezoONdv3rttd7csS1RePuS_lewZX7yS0/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/RktmX3hvT3lHZC1Y/X1FSdndVeTd3SGFF/SyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Non-veg Gravies"
+        },
+        {
+            "id": "12",
+            "price": 240,
+            "name": "Chicken Punjabi",
+            "rating": "4.1",
+            "src": "https://imgs.search.brave.com/9JL2T4lXIg7_inV4ghp1ED7_HGtdlEICXXCCMPUzJd8/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5n/azRhRFdRVW5yS2hF/SUpqcUFsU1JBSGFF/SyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Non-veg Gravies"
+        },
+        {
+            "id": "13",
+            "price": 220,
+            "name": "Chicken Chettinad",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/69s7YkEIIun-mLYD-J-aWdauTIrhxDvuSCI96v1Eld4/rs:fit:613:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/REFIU2JRdDRLelRu/YWZTaWR6bHZRSGFG/dSZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Non-veg Gravies"
+        },
+        {
+            "id": "14",
+            "price": 240,
+            "name": "Chicken tikka Masala",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/eDHImaJN6zKqCJGQI3efySjTdOlHoaAWw15sSn5OCK8/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5q/cFJNVUZMQnZPRTcw/bXVXaXQ2ekV3SGFF/SyZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Non-veg Gravies"
+        },
+        {
+            "id": "15",
+            "price": 260,
+            "name": "Fish Masala",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/5iqq8zXcboi6O2FnGbY6F1CPgp8yBAF-HtaiJkWaSas/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5a/Sy0tZVpIM2VrM0xi/WU1laUV4R3N3SGFF/OCZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Non-veg Gravies"
+        },
+        {
+            "id": "16",
+            "price": 20,
+            "name": "Pulka",
+            "rating": "3.9",
+            "src": "https://imgs.search.brave.com/uHrG714RP5f_T8MNSkyUv8U7ZylG6odoE91_1ae3HmU/rs:fit:385:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/WDVZQ2Jmd0dybHpN/MGFLYjM3MUl3QUFB/QSZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Tandoori Breads"
+        },
+        {
+            "id": "17",
+            "price": 30,
+            "name": "Chapati",
+            "rating": "4.0",
+            "src": "https://imgs.search.brave.com/pS8c2of4VW4ZWM4PHr_3d_gXuQgu385Wn_kdOt7V9_0/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/ZVVNVk5iMmd2RjlX/UnlsNUR1WmFnSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Tandoori Breads"
+        },
+        {
+            "id": "18",
+            "price": 40,
+            "name": "Roti",
+            "rating": "4.0",
+            "src": "https://imgs.search.brave.com/xN6xbWKKuFu25HPr9KtYvLYP9WhIjf7-8EVIVChLUW4/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC54/NzRJRmRUTi0yd1Fo/WEw0akpVRWlBSGFI/YSZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Tandoori Breads"
+        },
+        {
+            "id": "19",
+            "price": 50,
+            "name": "Butter Naan",
+            "rating": "4.7",
+            "src": "https://imgs.search.brave.com/i9wcNkk8iqxCR8HKGC3Q-JBkp2llYq_ZyQPI41PYxQk/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/Vm9VSmpIRG5YR2x2/bXJTYTJjV3hnSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Tandoori Breads"
+        },
+        {
+            "id": "20",
+            "price": 40,
+            "name": "Naan",
+            "rating": "4.2",
+            "src": "https://imgs.search.brave.com/o5EiLPr_bmHaoZr5rDNzod5cQXskR7LGRqzAZ0q-Zk8/rs:fit:533:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/U1VWeER6T0VZdjhL/dGJWeUdLdUVRSGFH/bCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Tandoori Breads"
+        },
+        {
+            "id": "21",
+            "price": 220,
+            "name": "Panner Butter Masala",
+            "rating": "4.1",
+            "src": "https://imgs.search.brave.com/wKRYAujxVecwqVVeLSlNNHtW-M5dl3rKopMlAsuVkRQ/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/SWZaNWZWTXlBd2xh/XzJTaWtvaXZBSGFF/SyZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg Gravies"
+        },
+        {
+            "id": "22",
+            "price": 180,
+            "name": "Mushroom Masala",
+            "rating": "3.9",
+            "src": "https://imgs.search.brave.com/jjG-BC1Dl_qZsZpaxjYcmEqAgvh04fAQBZm4TbvkZwg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5y/YThKeGdTem1Xa3dl/N1Q1VHNyYXhBSGFI/YSZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg Gravies"
+        },
+        {
+            "id": "23",
+            "price": 160,
+            "name": "Gobi Masala",
+            "rating": "4.0",
+            "src": "https://imgs.search.brave.com/cABPF7CaCbz0V6XFD6GTo_7haBAqyu2wnLpgIrRe08U/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4z/M0ZRSHhQM201VmRf/UDZiV3hsVkdnSGFF/NyZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg Gravies"
+        },
+        {
+            "id": "24",
+            "price": 260,
+            "name": "Kaju Panner",
+            "rating": "4.3",
+            "src": "https://imgs.search.brave.com/qrtskw7Y6ZEnU3IUG5pE2drJFFFOE562Zie_2f8hNw4/rs:fit:634:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5w/ZlpkNE90cHBXOEkt/aWxvQnloV0xBSGFG/aSZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg Gravies"
+        },
+        {
+            "id": "25",
+            "price": 200,
+            "name": "Palak Panner",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/uFGvorZ3AKZrfx9Hi64f9zwa-p89syL5VgTlE9_kjIE/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/RWZaQnNtQUxxVTBx/N2pmaWk1THlRSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Veg Gravies"
+        },
+        {
+            "id": "26",
+            "price": 490,
+            "name": "Chicken Tandoori",
+            "rating": "4.9",
+            "src": "https://imgs.search.brave.com/hOOkUB8a83SOxniJ9VeNDsd6dQ3IDFGXEgfe6PJfKaY/rs:fit:847:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4y/MXhmR1E5alVjelFo/QmZCVGdBU0h3SGFF/SiZwaWQ9QXBp",
+            "type": "Non-veg",
+            "category": "Chicken-starter"
+        },
+        {
+            "id": "27",
+            "price": 150,
+            "name": "Veg Burger",
+            "rating": "4.2",
+            "src": "https://imgs.search.brave.com/TlcjkmG2g4LSpUXsD55zeT-J5MUeCesVY2_RXyYOh_M/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/T2VnLTB5MjNtZVVv/T0hUWjlDd01nSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Junk Food"
+        },
+        {
+            "id": "28",
+            "price": 90,
+            "name": "Pastry",
+            "rating": "4.5",
+            "src": "https://imgs.search.brave.com/PHzq42UkHafMIbL8ljeRqnwRfQEUprgqYwgGr4qiNNI/rs:fit:913:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/UlZuYkNqdnJoN1RJ/eFkyelVJYTNRSGFE/MiZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Junk Food"
+        },
+        {
+            "id": "29",
+            "price": 70,
+            "name": "Samosa Chat",
+            "rating": "4.3",
+            "src": "https://imgs.search.brave.com/eJskPMEJbFkFkD9X7EGUJRRAg5NG6sWm1eSS08Ot7gI/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/YXpRMUJkOUNyRWhZ/OGdkUWNpbm5nSGFF/OCZwaWQ9QXBp",
+            "type": "Veg",
+            "category": "Junk Food"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+.headervid {
+  width: 97%;
+  height: 50%;
+  margin-left: 1.5%;
+  object-fit: fill;
+}
+
+.home-cont {
+  padding: 20px 10px;
+  background-color: #171a29;
+}
+
+.btn-btn-home{
+  color: white;
+}
+
+.btn-btn-home:onhover {
+  color: aliceblue;
+}

@@ -1,0 +1,99 @@
+.itemcont:hover{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.itemcont{
+    border: 0px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.good{
+    background-color: #48c479;
+}
+
+.ok{
+    background-color: #db7c38;
+}
+
+.bad{
+    background-color: #F98B85 ;
+}
+
+.filterF{
+    font-weight: 200;
+}
+
+.filterF:hover{
+    cursor: pointer;
+}
+
+.filterS{
+    font-weight: 600;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 28px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.inputcheck:checked + .slider {
+  background-color: #35a003;
+}
+
+.inputcheck:focus + .slider {
+  box-shadow: 0 0 1px #35a003;
+}
+
+.inputcheck:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+.toast-message{
+  color : "#171a29"
+}
+
+.topc{
+  transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+
+.topc:hover{
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
